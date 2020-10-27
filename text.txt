@@ -1,3 +1,4 @@
 Roses are red
 Violets are blue
-blah, blah, blah
+git is not hard
+and neither are you
